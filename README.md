@@ -28,11 +28,4 @@ Includes:
 - New Joiners vs Churners
 
 ## Folder Structure
-customer-churn-analysis-powerbi-ml/
-│
-├── data/ # Raw or cleaned sample data
-├── notebooks/ # Jupyter notebooks (EDA, ML)
-├── powerbi-dashboard/ # .pbix file and screenshots
-├── models/ # Trained model files (.pkl)
-├── README.md
-├── requirements.txt
+
